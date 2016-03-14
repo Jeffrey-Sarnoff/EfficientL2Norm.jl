@@ -3,7 +3,8 @@ Faithfully rounded floating point L2-Norm
 
 This implementation follows   
 "Efficient Calculations of Faithfully Rounded l2-Norms of n-Vectors"  
-by S. Graillat, C. Lauter, P. Tang, N. Yamanaka and S. Oishi
+by S. Graillat, C. Lauter, P. Tang, N. Yamanaka and S. Oishi  
+DOI: http://dx.doi.org/10.1145/2699469
 
 The reference implemention is under GNU Lesser Geneal Public License (v 2.1 or later) and  
 Copyright (C) 2014 Université Pierre et Marie Curie Paris 6, UPMC, LIP6, PEQUAN team.
