@@ -26,7 +26,7 @@ const gamma     = 1.9010915662951598235150724058351031092648712063735e-211   # g
 const gammaToM1 = 5.26013590154837350724098988288012866555033980282317e+210  # gamma^-1          = 2^+700  
 
 # constants used in faithfulNorm()
-const signBitFilter = 0x7fffffffffffffff  # mask that strips the sign of a Float64
+const absMask = 0x7fffffffffffffff # mask that strips the sign of a Float64
 const boundA  = 0x5450000000000000 # 2^+326 bound
 const boundB  = 0x2890000000000000 # 2^-374 bound
 const twoM700 = 0x1430000000000000 # 2^-700 scaling factor
