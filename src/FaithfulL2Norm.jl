@@ -1,4 +1,4 @@
-module FaithfulL2Norm
+module EfficientL2Norm.jl
 
 
 
