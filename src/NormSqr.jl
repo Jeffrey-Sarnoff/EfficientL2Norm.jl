@@ -9,7 +9,7 @@ function SumOfSquares(x::Vector{Float64})
     ssqHiLo
 end
 
-function SumNonNeg{T<:FF{Float64}(a::T, b:T)
+function SumNonNeg{T<:FF{Float64}(a::T, b::T)
     hi,md = eftAdd(a.hi,b.hi)
     c = a.lo + b.lo
     d = lo + c
