@@ -6,7 +6,7 @@ This implementation follows
 by S. Graillat, C. Lauter, P. Tang, N. Yamanaka and S. Oishi  
 DOI: http://dx.doi.org/10.1145/2699469
 
-The reference implemention is under [GNU Lesser Geneal Public License  ](http://www.gnu.org/licenses/lgpl-3.0.html) and  
+The reference implemention is released under [GNU Lesser Geneal Public License  ](http://www.gnu.org/licenses/lgpl-3.0.html) and  
 Copyright (C) 2014 Université Pierre et Marie Curie Paris 6, UPMC, LIP6, PEQUAN team.
 
 
