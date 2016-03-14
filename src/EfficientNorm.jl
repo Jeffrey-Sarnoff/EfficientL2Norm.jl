@@ -1,4 +1,4 @@
-module EfficientL2Norm.jl
+module EfficientNorm.jl
 
 import Base: abs, sqrt, norm
 
