@@ -1,4 +1,4 @@
-## FaithfulL2Norm.jl
+## EfficientL2Norm.jl
 Faithfully rounded floating point L2-Norm
 
 This implementation follows   
