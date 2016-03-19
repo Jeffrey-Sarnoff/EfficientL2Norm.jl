@@ -1,6 +1,10 @@
 # accurate accumlulation
 
 function SumOfSquares(x::Vector{Float64}) 
+    if length(x) >= 375299968947538
+        throw(DomainError)
+    end
+    
     ssqHiLo = zero(FF)
     for i in 1:length(x)
         xsqHiLo = eftMul(x[i], x[i])
