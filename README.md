@@ -1,4 +1,4 @@
-## EfficientNorm.jl
+## EfficientNorm
 Faithfully rounded floating point L2-Norm
 ```ruby
                                                               Jeffrey Sarnoff © 2016-Mar-22 at New York
