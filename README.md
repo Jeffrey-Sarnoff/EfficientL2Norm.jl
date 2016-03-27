@@ -1,7 +1,7 @@
 ## EfficientNorm
 Faithfully rounded floating point L2-Norm
 ```ruby
-                                                              Jeffrey Sarnoff © 2016-Mar-22 at New York
+                                                      Jeffrey Sarnoff © 2016-Mar-22 at New York
 ```
 This implementation follows   
 "Efficient Calculations of Faithfully Rounded l2-Norms of n-Vectors"  
